@@ -1,4 +1,4 @@
-# 📚 Scikit-Learn Cookbook
+# Scikit-Learn Cookbook
 
 > Reproduksi kode dan pendalaman teori dari buku *scikit-learn Cookbook* (O'Reilly / Packt)
 
@@ -7,7 +7,7 @@ menggunakan [scikit-learn](https://scikit-learn.org/). Repositori ini dibuat unt
 Setiap notebook berisi ringkasan bab, penjelasan teori (disusun dengan bantuan LLM), dan kode yang bisa langsung dijalankan
 dengan dataset bawaan scikit-learn.
 
-## 📖 Daftar Isi
+## Daftar Isi
 
 | #  | Bab | Topik yang Dibahas | Status |
 | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ dengan dataset bawaan scikit-learn.
 | 12 | **Cross-Validation and Model Evaluation** | K-Fold, seleksi model, generalisasi | Menyusul |
 | 13 | **Deploying Models in Production** | Serialisasi model, pipeline untuk produksi, monitoring | Menyusul |
 
-## 🔎 Gambaran Tiap Bab
+## Gambaran Tiap Bab
 
 **01. API Elements of scikit-learn.** Filosofi desain scikit-learn dan API intinya: estimator (`fit`), predictor (`predict`),
 transformer (`transform`), estimator kustom, `Pipeline`, `GridSearchCV` / `RandomizedSearchCV`, atribut umum, tag estimator,
@@ -47,7 +47,7 @@ coefficient path, memilih α dengan cross-validation, dan latihan klasifikasi Ri
 
 **06–13.** Akan ditambahkan sesuai jadwal pengumpulan.
 
-## 🚀 Memulai
+## Memulai
 
 ### Prasyarat
 - Python 3.8+
@@ -75,7 +75,7 @@ jupyter notebook
 | `matplotlib` | Visualisasi data |
 | `scipy` | Distribusi statistik untuk pencarian hyperparameter |
 
-## 🗂️ Struktur Repositori
+## Struktur Repositori
 ```
 scikit-learn-cookbook/
 ├── 01. API Elements of scikit-learn/
